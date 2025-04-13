@@ -1,3 +1,5 @@
+## Folder Structure
+``` bash
 learning/
 ├── data_science_ml/
 │   ├── numpy/
@@ -41,3 +43,4 @@ learning/
 │   │   └── ...
 │   └── README.md
 └── README.md             # Main README for the entire repository
+```
